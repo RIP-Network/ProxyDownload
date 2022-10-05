@@ -1,5 +1,9 @@
 #!bin/bash
 
+rm -rf foto1.png
+rm -rf README.md
+rm -rf what-is-a-proxy-server-featured-image-big.png
+
 echo "Creado por RIP-Network V 1.0 05/10/2022"
 sleep 3
 clear
