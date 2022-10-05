@@ -4,6 +4,8 @@ echo "Creado por RIP-Network V 1.0"
 sleep 3
 clear
 
+apt install neofetch
+clear
 neofetch
 
 sleep 3
